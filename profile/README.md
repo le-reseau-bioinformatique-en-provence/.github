@@ -35,7 +35,7 @@ Fédérer la communauté bioinformatique autour d’un même réseau en région 
 - Fabrice Armougom, IRD MIO, fabrice.armougom@mio.osupytheas.fr
 - Benoît Ballester, INSERM TAGC, benoit.ballester@inserm.fr
 - Delphine Potier, CNRS CRCM, delphine.potier@cnrs.fr
-- Romain Fenouil, CNRS CIML,  
+- Romain Fenouil, CNRS CIML, fenouil@ciml.univ-mrs.fr
 
 ---
 
